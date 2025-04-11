@@ -1,4 +1,4 @@
-# Ordenamiento-Sorted
+# Ordenamiento-Sort
 
 repuestos = [
     {"nombre": "Filtro de aceite", "precio": 15.99},
