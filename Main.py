@@ -40,7 +40,7 @@ def menu():
             ordenar_repuestos_por_precio(repuestos, clave="precio", ascendente=False)
             mostrar_repuestos(repuestos)
         elif opcion == "4":
-            print("Gracias por visitar nuestra CarFix. ¡Hasta pronto!")
+            print("Gracias por visitar CarFix. ¡Hasta pronto!")
             break
         else:
             print("Opción no válida. Por favor, intente de nuevo.")
